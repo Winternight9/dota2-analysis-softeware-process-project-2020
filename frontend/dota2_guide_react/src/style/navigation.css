@@ -1,0 +1,25 @@
+.navbar {
+    width: 100vw;
+    height: 40px;
+    background-color: white;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.1);
+    z-index: 1000;
+    margin-bottom: 1.4rem;
+}
+
+.nav-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+}
+
+.nav-item {
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    text-decoration: none;
+}
