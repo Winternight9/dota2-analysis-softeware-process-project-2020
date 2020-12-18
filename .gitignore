@@ -245,6 +245,4 @@ build
 
 .strapi-updater.json
 .ability.json.icloud
-package-lock.json
 .eslintcache
-yarn.lock
