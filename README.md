@@ -28,10 +28,24 @@ docker build -t <your name>/node-backend
 ## **Running On Local**
 ### **Frontend**
 ```
-1. 
+Go to directory frontend/dota2_guide_react
 ```
+```
+npm install
+```
+```
+npm start
+```
+The website will run on http://localhost:3000/
 
 ### **Backend**
 ```
-1.
+Go to directory api/dota2
 ```
+```
+npm install
+```
+```
+npm start
+```
+The api will run on http://localhost:1337/
