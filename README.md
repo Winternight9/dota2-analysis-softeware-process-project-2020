@@ -51,3 +51,9 @@ docker build -t <your name>/node-backend
 ```
 ### The api will run on http://localhost:1337/
 
+## Group Member
+* 6110545449	Jitta Koopratoomsiri
+* 6110545538	Thanida Jongarnon
+* 6110545651	Supakorn Tangpremsri
+* 6110545694	Anant Arayanant
+* 6110546631	Wikrom Chanthakhun
