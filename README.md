@@ -13,47 +13,45 @@
 
 ## **Setup Docker Images**
 ### Docker Frontend
+1. Go to directory *frontend/dota2_guide_react/*
+2. Run the following command
 ```
-1. Go to directory frontend/dota2_guide_react/
-```
-```
-2. docker build -t <your name>/react-frontend
+docker build -t <your name>/react-frontend
 ```
 
 ### Docker Backend
+1. Go to directory *api/dota2/*
+2. Run the following command
 ```
-1. Go to directory api/dota2/
-```
-```
-2. docker build -t <your name>/node-backend
+docker build -t <your name>/node-backend
 ```
 
 ## **Running On Local**
 ### **Frontend**
+1. Go to directory *frontend/dota2_guide_react*
+2. Run the following command for install all requirements
 ```
-1. Go to directory frontend/dota2_guide_react
+npm install
 ```
+3. Run the following command for start server
 ```
-2. npm install
-```
-```
-3. npm start
+npm start
 ```
 ### The website will run on http://localhost:3000/
 
 ### **Backend**
+1. Go to directory *api/dota2*
+2. Run the following command for install all requirements
 ```
-1. Go to directory api/dota2
+npm install
 ```
+3. Run the following command for start server
 ```
-2. npm install
-```
-```
-3. npm start
+npm start
 ```
 ### The api will run on http://localhost:1337/
 
-## Group Member
+## Group Member:
 * 6110545449	Jitta Koopratoomsiri
 * 6110545538	Thanida Jongarnon
 * 6110545651	Supakorn Tangpremsri
