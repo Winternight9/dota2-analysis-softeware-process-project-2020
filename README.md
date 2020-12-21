@@ -51,9 +51,12 @@ npm start
 ```
 ### The api will run on http://localhost:1337/
 
-## Group Member:
+## Group Members:
 * 6110545449	Jitta Koopratoomsiri
 * 6110545538	Thanida Jongarnon
 * 6110545651	Supakorn Tangpremsri
 * 6110545694	Anant Arayanant
 * 6110546631	Wikrom Chanthakhun
+
+## Developer Resources:  
+* [Project Document](https://docs.google.com/document/d/1XYv9WP3De8vLho3KXA8S_CVSe4Lo5M-nebSzWvCnlN8/edit?usp=sharing)
